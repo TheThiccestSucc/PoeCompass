@@ -1,5 +1,5 @@
 PoeCompass
-[![Github All Releases]https://img.shields.io/github/downloads/flacostec/PoeCompass/total.svg)](https://github.com/flacostec/PoeCompass/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/flacostec/PoeCompass/total.svg)](https://github.com/flacostec/PoeCompass/releases)
 ===
 
 An overlay aiming to improve the quality of life when running leveling in [Path of Exile](https://www.pathofexile.com/).
@@ -21,7 +21,7 @@ See the [release](https://github.com/flacostec/PoeCompass/releases) section.
 FAQ
 ---
 
-**Q: How does it work?**
+**Q: How does it work ? **
 
 A: Every time you enter a new area, the client logs "You have entered XXXXXX." to Client.txt, which is used by PoeCompass to determine your current location.
 
