@@ -3,6 +3,7 @@ PoeCompass
 ===
 
 An overlay aiming to improve the quality of life when running leveling in [Path of Exile](https://www.pathofexile.com/).
+If for some reason, you have to resume your leveling process and you are in the part 2, just double click the layout, it will swap to P2.
 
 Features
 ---
@@ -17,6 +18,10 @@ Downloads
 ---
 
 See the [release](https://github.com/flacostec/PoeCompass/releases) section.
+
+Screenshots
+---
+![Zone 2](https://github.com/flacostec/PoeCompass/blob/master/images/screenshot2.PNG)
 
 FAQ
 ---
