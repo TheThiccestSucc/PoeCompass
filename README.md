@@ -2,7 +2,8 @@ PoeCompass
 [![Github All Releases](https://img.shields.io/github/downloads/flacostec/PoeCompass/total.svg)](https://github.com/flacostec/PoeCompass/releases)
 ===
 
-An overlay aiming to improve the quality of life when running leveling in [Path of Exile](https://www.pathofexile.com/).
+An overlay aiming to improve the quality of life when running leveling in [Path of Exile](https://www.pathofexile.com/). Entirely written in C# and customizable by modifying the configuration file (configuration.json).
+
 If for some reason, you have to resume your leveling process and you are in the part 2, just double click the layout, it will swap to P2.
 
 Features
